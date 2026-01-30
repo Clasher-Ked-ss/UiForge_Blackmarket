@@ -7,7 +7,7 @@ description 'Advanced Blackmarket System for FiveM'
 version '1.0.0'
 github 'https://github.com/Clasher-Ked-ss/UiForge_Blackmarket'
 
-shared_scripts {'shared/*.lua', 'Config.lua', 'bridge/framework.lua'}
+shared_scripts {'shared/*.lua', 'Config.lua', 'bridge/framework.lua', 'bridge/inventory.lua', 'bridge/target.lua'}
 
 client_scripts {'client/*.lua'}
 
